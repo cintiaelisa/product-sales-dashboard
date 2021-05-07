@@ -1,1 +1,0 @@
-INDEX VERSION 1.131+/home/cintia/code/ws-devsuperior/product-dashboard/.metadata/.plugins/org.eclipse.jdt.core
